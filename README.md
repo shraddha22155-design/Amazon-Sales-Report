@@ -1,7 +1,7 @@
 ### Problem Statement: 
 Analyze and Provide Insights on Amazon Sales Report 
 
-### Problem Descrip on: 
+### Problem Description: 
 The provided dataset contains informa on about sales transac ons on Amazon, including details such as order 
 ID, date, status, fulfilment method, sales channel, product category, size, quan ty, amount, shipping details, 
 and more. The objec ve is to conduct a comprehensive analysis of the data and extract ac onable insights to 
